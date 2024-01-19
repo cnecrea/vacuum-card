@@ -52,7 +52,7 @@ ha-card {
 }
 
 .map {
-  max-width: 95%;
+  max-width: 55%;
   image-rendering: crisp-edges;
   cursor: pointer;
 }
